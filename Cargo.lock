@@ -1460,7 +1460,7 @@ dependencies = [
 
 [[package]]
 name = "konwerter-gui"
-version = "0.1.0"
+version = "1.0.0"
 dependencies = [
  "eframe",
  "env_logger",
